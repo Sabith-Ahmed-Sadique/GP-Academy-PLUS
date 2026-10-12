@@ -1,0 +1,6 @@
+{
+  "name": "PeerUp - GP Academy Peer Learning",
+  "description": "PeerUp connects students and working professionals in collaborative peer groups within GP Academy to close workplace and modern AI skill gaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
